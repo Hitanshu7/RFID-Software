@@ -1,5 +1,5 @@
 # RFID Python Based Software
-HK RFID Monitor is basically a Python based software for RFID. It reads the data coming to COM port and displays it on your laptop screen. The data used in this project is IDs, names and roll numbers of students, coming from a micro-controller (AVR or simply arduino). The software reads the values with 'Serial' module of Python and displays it using 'Tkinker'.
+HK RFID Monitor is basically a Python based software for RFID. It reads the data coming to COM port and displays it on your laptop screen. The data used in this project is IDs, names and roll numbers of students, coming from a micro-controller (AVR or simply Arduino). The software reads the values with 'Serial' module of Python and displays it using 'Tkinker'.
 
 # How is the data coming to COM port?
 In this project arduino is used to send data to the COM port so it is easier to understand that how the data is coming to COM port for those who have worked with arduino or AVR microcontroller. 
